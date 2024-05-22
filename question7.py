@@ -5,6 +5,13 @@ b=[4,5,6]
 c=[7,5,3,2,3]
 d=[2]
 e=[3]
+list=[]
+list.append(a)
+list.append(b)
+list.append(c)
+list.append(d)
+list.append(e)
+print(list)
 
 # use these lists to create another list which will look like the list output in line 2
 
